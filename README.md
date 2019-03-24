@@ -16,6 +16,10 @@ Ensemble learning and random forests - refer to population_ensemble_learning.csv
 
 Fully connected neural network (simple dense) - redwine_fully_NN.csv
 
+Optimizing hyperparameters for running a fully connected neural network (simple dense) - redwine_fully_NN.csv
+
 Convolutional neural network (simple) - download data from https://1drv.ms/f/s!AllKT9wO1BQlg70wc00M04wzNPXt_A
 
 Convolutional neural network (transfer learning) - download data from https://1drv.ms/f/s!AllKT9wO1BQlg8lzZMl2zB5xImTbYg
+
+Convolutional neural network + LSTM for simple sentimental analysis - using keras.datasets imdb data
