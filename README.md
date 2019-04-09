@@ -3,6 +3,7 @@ Contains python notebooks which demonstrates various supervised machine learning
 SVMs, fully-connected neural networks etc.
 
 regression analysis (linear and non-linear) - refer to population_linear_model.csv
+
 Basic machine learning_1: Linear and polynomial regressions of random numbers
 
 regression analysis (logistic) - refer to wine_logistic.txt
